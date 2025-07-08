@@ -1,6 +1,14 @@
 <p align="center">
 <img src="http://docs.frrouting.org/en/latest/_static/frr-icon.svg" alt="Icon" width="20%"/>
 </p>
+(Pass 3)
+
+IGNORE THIS REPO
+================
+
+This repo is only used for some CI testing. IGNORE IT
+
+Real repo is at https://github.com/frrouting/frr
 
 FRRouting
 =========
